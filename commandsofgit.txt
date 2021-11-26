@@ -12,3 +12,4 @@ git checkout +thebranch
 git checkout +the hash i want to from the log
 git branch +the name of the branch
 
+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
