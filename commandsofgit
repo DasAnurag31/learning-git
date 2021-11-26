@@ -1,0 +1,14 @@
+git init
+git --version
+git config 
+git comfig --global --edit
+git comnfig --global user.email
+git config --global user.name
+git status
+git log
+git add . 
+git commit -m"mmy message"
+git checkout +thebranch 
+git checkout +the hash i want to from the log
+git branch +the name of the branch
+
